@@ -1,0 +1,21 @@
+{
+    
+    "webhook": {
+        "enabled": false,
+        "webhookurl": "https://discord.com/api/webhooks/yourwebhook"
+        
+    },
+    "limiteds": {
+        "enabled": true,
+        "itemids": [
+            123,
+            69
+        ]
+        
+    },
+
+    "fastmode": {
+        "enabled": false,
+        "snipemilliseconds": 25
+    }
+}
