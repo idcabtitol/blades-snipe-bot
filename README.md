@@ -1,9 +1,3 @@
 # blades-snipe-bot
 snipe bot for roblox limiteds
-HOW TO USE:
-
-1: Turn off Virus % Threat Protection or else the bot won't be able to function
-2: Enter your info in "config"
-3: Launch "blades sniper v1.0 and enjoy!
-
-EXTRA: if you are a tester, thank you for testing!
+SNIPE BOT IS STILL IN TESTING MODE, PLEASE REPORT BUGS TO THE OWNER
